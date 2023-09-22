@@ -5,7 +5,6 @@ package huffman;
  * This class represents a node of a huffman coding tree,
  * and contains a CharFreq object as its data
  * 
- * @author Ishaan Ivaturi
  */
 public class TreeNode {
     private CharFreq data;

@@ -205,9 +205,6 @@ import java.util.regex.Pattern;
  *  <em>Computer Science: An Interdisciplinary Approach</em>
  *  by Robert Sedgewick and Kevin Wayne.
  *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
- *  @author David Pritchard
  */
 public final class StdIn {
 
